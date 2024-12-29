@@ -27,7 +27,8 @@ NumPy: For numerical operations and array manipulations.
 Matplotlib: For creating static, animated, and interactive visualizations.
 Seaborn: For making statistical graphics more attractive and informative.
 
-Dataset-- The dataset used in this project is the Amazon Sales Report, which includes the following columns:
+Dataset-- 
+The dataset used in this project is the Amazon Sales Report, which includes the following columns:
 order_id, product_id, product_name, category, quantity, price, order_date, customer_id, ship-postal-code, ship-state, B2B, Size, Status, Courier Status
 
 Conclusion:
